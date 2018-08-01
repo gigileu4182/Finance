@@ -1,6 +1,6 @@
 # Finance
 
-投资即人生。共性，集合，性质。
+投资即人生。共性，集合，instance, attributes。
 
 ## 总目录
 
