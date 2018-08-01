@@ -1,6 +1,7 @@
 # Finance
 
 投资即人生。共性，集合，instance, attributes。
+If I CAN NOT SOLVE IT, THEN DO NOT COMPLAIN. - YUN MA IN UNIVERISTY OF MANILA, PHILIPPINES, FORREST GUMP
 
 ## 总目录
 
