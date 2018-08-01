@@ -38,7 +38,10 @@ If I CAN NOT SOLVE IT, THEN DO NOT COMPLAIN. - YUN MA IN UNIVERISTY OF MANILA, P
 2. 被特停
 3. 龙虎榜？
 4. 板块龙头？
-
+5. 反包？
+6. 地天？
+`15个交易日内涨跌幅大于9的次数，上市天数大于25`
+`龙虎榜`
 
 ## 复盘
 
