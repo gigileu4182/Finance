@@ -33,6 +33,9 @@ If I CAN NOT SOLVE IT, THEN DO NOT COMPLAIN. - YUN MA IN UNIVERISTY OF MANILA, P
   - 如果我选择的是趋势，涨不停，不一定要太激进。
     - 均线来做筛选
 
+## 如何判断分时情绪？：：今天可以赚钱?
+每天放量？机构抄底？看板块。
+
 ## 情绪指标股
 1. 涨停次数多
 2. 被特停
@@ -42,6 +45,10 @@ If I CAN NOT SOLVE IT, THEN DO NOT COMPLAIN. - YUN MA IN UNIVERISTY OF MANILA, P
 6. 地天？
 `15个交易日内涨跌幅大于9的次数，上市天数大于25`
 `龙虎榜`
+iwencai.. 板块
+iwencai.. 昨日换手率，昨日量比
+各个国内指数的1分钟。
+汇率，期货。
 
 ## 复盘
 
