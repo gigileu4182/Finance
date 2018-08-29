@@ -7,6 +7,10 @@ If I CAN NOT SOLVE IT, THEN DO NOT COMPLAIN. - YUN MA IN UNIVERISTY OF MANILA, P
 
 我如果要决定好好炒股，就要每天花定量时间。研究定量股票，看重要指数。
 
+## 程序 交易 level2 下单 监控
+https://www.zhihu.com/question/26223347
+https://www.zhihu.com/question/24868351
+
 ## 
 
 - 总龙头：
