@@ -6,6 +6,8 @@ If I CAN NOT SOLVE IT, THEN DO NOT COMPLAIN. - YUN MA IN UNIVERISTY OF MANILA, P
 ## 总目录
 
 我如果要决定好好炒股，就要每天花定量时间。研究定量股票，看重要指数。
+// 东方财富北向资金。东方财富板块资金流向！散户资金！
+// 北向资金如果为正，流向谁？看市值体量最大的那些股票，以及几个消费板块，铁路基建板块，土木板块，房地产板块：美的，格力，酒。上证50ETF
 
 ## 程序 交易 level2 下单 监控
 https://www.zhihu.com/question/26223347
