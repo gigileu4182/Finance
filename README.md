@@ -9,6 +9,8 @@ If I CAN NOT SOLVE IT, THEN DO NOT COMPLAIN. - YUN MA IN UNIVERISTY OF MANILA, P
 // 东方财富北向资金。东方财富板块资金流向！散户资金！
 // 北向资金如果为正，流向谁？看市值体量最大的那些股票，以及几个消费板块，铁路基建板块，土木板块，房地产板块：美的，格力，酒。上证50ETF
 // 鱼哥：最低原则。站上20日线，红格，有过涨停板。
+// http://blog.sina.com.cn/s/blog_afae4ee50102wu8a.html
+// https://zhuanlan.zhihu.com/p/40802537 ... finance sina api
 
 ## 程序 交易 level2 下单 监控
 https://www.zhihu.com/question/26223347
